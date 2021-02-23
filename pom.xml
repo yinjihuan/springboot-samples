@@ -12,6 +12,7 @@
         <module>springboot-samples-helloworld</module>
         <module>springboot-samples-buildpackage</module>
         <module>springboot-samples-config</module>
+        <module>springboot-samples-filter</module>
     </modules>
 
     <parent>
