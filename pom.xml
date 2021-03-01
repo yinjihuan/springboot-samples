@@ -13,6 +13,7 @@
         <module>springboot-samples-buildpackage</module>
         <module>springboot-samples-config</module>
         <module>springboot-samples-filter</module>
+        <module>springboot-samples-listener</module>
     </modules>
 
     <parent>
