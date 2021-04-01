@@ -16,6 +16,7 @@
         <module>springboot-samples-listener</module>
         <module>springboot-samples-jpa</module>
         <module>springboot-samples-jdbctemplate</module>
+        <module>springboot-samples-mybatis</module>
     </modules>
 
     <parent>

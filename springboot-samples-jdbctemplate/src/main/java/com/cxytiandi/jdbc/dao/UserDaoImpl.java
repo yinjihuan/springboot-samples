@@ -1,6 +1,6 @@
-package com.cxytiandi.jpa.dao;
+package com.cxytiandi.jdbc.dao;
 
-import com.cxytiandi.jpa.entity.User;
+import com.cxytiandi.jdbc.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
