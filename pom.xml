@@ -17,6 +17,7 @@
         <module>springboot-samples-jpa</module>
         <module>springboot-samples-jdbctemplate</module>
         <module>springboot-samples-mybatis</module>
+        <module>springboot-samples-redis</module>
     </modules>
 
     <parent>
